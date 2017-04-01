@@ -1,1 +1,0 @@
-export const FETCH_COMMITS = 'FETCH_COMMITS';
